@@ -1,5 +1,12 @@
 .idaho-image{
   background-image: url("CentennialMarsh.jpg");
-  height: 50vh;
+  min-height: 56vh;
   background-size: cover;
+}
+.title2{
+  padding-top: 131px;
+}
+.blue{
+  min-height: 25vh;
+  background-color:#222227;
 }
