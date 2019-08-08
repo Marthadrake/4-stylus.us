@@ -1,4 +1,5 @@
-.world.image{
-  background-image:url(CentennialMarsh.jpg);
-  height: 46vh;
+.idaho-image{
+  background-image: url("CentennialMarsh.jpg");
+  height: 50vh;
+  background-size: cover;
 }
